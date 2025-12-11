@@ -72,4 +72,4 @@ for num in list(range(1,26)):
     sum = sum + 20
     sum = sum + 21
     sum = sum + 22
-    su
+    
